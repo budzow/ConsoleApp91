@@ -11,7 +11,7 @@ namespace ConsoleApp91
 
         public static void Print()
         {
-            PrivatePrint();
+            //PrivatePrint();
         }
 
         private static void PrivatePrint()
