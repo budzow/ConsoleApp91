@@ -11,6 +11,7 @@ namespace ConsoleApp91
         static void Main(string[] args)
         {
             //TODO comment to raise an issue
+            //Printer.Print();
         }
     }
 }
