@@ -18,5 +18,12 @@ namespace ConsoleApp91
         {
             Console.WriteLine("Hello from Printer");
         }
+
+        //TODO something TODO something TODO something TODO something TODO something TODO something TODO something TODO something TODO something TODO something TODO something TODO something TODO something TODO 
+
+        /*TODO something
+         * and TODO something
+         * and more things TODO
+         */
     }
 }
